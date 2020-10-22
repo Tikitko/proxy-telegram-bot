@@ -1,0 +1,5 @@
+{
+    "token": "TOKEN",
+    "start_message": "Hello from proxy-telegram-bot!",
+    "proxy_activate_code": "proxy-telegram-bot"
+}
