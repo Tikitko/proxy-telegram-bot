@@ -1,12 +1,17 @@
 {
     "token": "TOKEN",
     "start_message": "Hello from proxy-telegram-bot!",
+    "command_not_allowed": "This command not allowed for you!",
+    "add_ignore": "Ignored chat ID was added!",
+    "remove_ignore": "Ignored chat ID was removed!",
+    "error_ignore": "Error on ignore action!",
     "add_listener": "You was removed from listeners!",
     "remove_listener": "You was added to listeners!",
     "error_listener": "Error on listeners action!",
     "proxy_activate_code": "proxy-telegram-bot",
     "message_not_text_error": null,
     "answer_after_message": null,
+    "answer_after_message_ignored": null,
     "spam_control": {
         "delay": 3,
         "delayed_message": "Bot understanding only one message for last 3 seconds!"
